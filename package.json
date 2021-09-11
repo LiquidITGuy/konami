@@ -1,0 +1,31 @@
+{
+  "name": "konami",
+  "version": "0.9.0",
+  "description": "easy konami lib lightweight for front javascript projects",
+  "main": "konami.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiquidITGuy/konami.git"
+  },
+  "keywords": [
+    "konami",
+    "js",
+    "react",
+    "vuejs",
+    "vanillajs",
+    "light"
+  ],
+  "author": {
+    "email": "simon.belbeoch@ln1.eu",
+    "name": "Simon Belbeoch",
+    "url": "https://github.com/LiquidITGuy"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LiquidITGuy/konami/issues"
+  },
+  "homepage": "https://github.com/LiquidITGuy/konami#readme"
+}
